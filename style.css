@@ -204,6 +204,8 @@ html, body {
   }
   
   .titulo-demanda {
+    font-family: 'Comic Sans MS',  sans-serif;
+    font-weight: bold;
     display: flex;
     align-items: center;
     color: #5c371b;
